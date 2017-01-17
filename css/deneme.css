@@ -1,0 +1,20 @@
+body {
+	height: 100%;
+}
+html {
+	background: #FF5722 url(../img/turuncu.png) center center no-repeat;
+	background-size: cover;
+    height: 100%;
+}
+
+
+
+
+
+
+.text {
+text-align: center;
+font-weight: bold;
+font-size: 3em;
+margin-left: -1250px;
+}
